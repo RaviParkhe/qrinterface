@@ -1,0 +1,5 @@
+streamlit
+qrcode[pil]
+pyzbar
+pillow
+numpy
